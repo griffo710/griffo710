@@ -11,7 +11,7 @@ marking system using OCR and NLP which I managed to build via vibe coding. I aim
 
 <h2>Projects I have worked on</h2>
 
-<a href="https://github.com/griffo710/First-ML-Project/blob/main/Ml%20Counterfeit%20Prediction%20GPT%20Dataset.ipynb"
+<a href="https://github.com/griffo710/First-ML-Project/blob/main/Bank_Note_Authentication.ipynb"
   title="Takes you to project repo">
   Bank Note Authentication System - Machine Learning
 </a>
